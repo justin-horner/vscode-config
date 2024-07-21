@@ -1,0 +1,55 @@
+{
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.emptySelectionClipboard": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.detectIndentation": false,
+    "editor.minimap.enabled": false,
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 1.5,
+    "editor.suggestFontSize": 15,
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+
+    "extensions.ignoreRecommendations": true,
+    
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.lineHeight": 1.5,
+    
+    "diffEditor.renderSideBySide": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+
+    "workbench.editor.enablePreview": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.showTabs": "none",
+    "workbench.tips.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.sideBar.location": "right",
+
+    "window.commandCenter": false,
+    "window.newWindowDimensions": "inherit",
+
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+
+    "breadcrumbs.enabled": false,
+
+    "search.useIgnoreFiles": true,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/dist": true,
+        "**/public": true,
+        "**/package-lock.json": true,
+    },
+    "workbench.colorTheme": "Rosé Pine (no italics)",
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.incsearch": true,
+    "editor.lineNumbers": "relative",
+    "vim.useCtrlKeys": false
+}
