@@ -116,6 +116,11 @@
         "command": "workbench.action.terminal.kill",
         "when": "terminalFocus"
     },
+    {
+        "key": "ctrl+c",
+        "command": "workbench.action.terminal.clear",
+        "when": "terminalFocus"
+    },
 
 
     {
